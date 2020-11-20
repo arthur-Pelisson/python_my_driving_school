@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 33px;
+}
+
+.title {
+    padding: 50px;
+    background: red;
+}
+
+.content {
+    margin: auto;
+    margin-top: auto;
+    width: 450px;
+    text-align: center;
+    margin-top: 180px;
+    height: 300px;
+    display: flex;
+    background-color: lightgreen
+}
+
+.card {
+    margin: auto;
+}
